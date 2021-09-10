@@ -28,6 +28,7 @@
 #CSS : (Cascading Style Sheets) Create attractive Layout
 #Bootstrap : responsive design mobile freindly site
 #JavaScript: it is a programming language, commonly use with web browsers.
+
 #Back end: PHP, MySQL
 
 #PHP: Hypertext Preprocessor (PHP) is a technology that allows software developers to create 
